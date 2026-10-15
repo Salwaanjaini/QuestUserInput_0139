@@ -38,7 +38,7 @@ fun FormDataDiri(modifier: Modifier){
 
     //variabel-variabel untuk menyimoan data yang diperoleh dari komponen
     var nama by remember {mutableStateOf(value="")}
+    var alamat by remember {mutableStateOf(value="")}
 
-
-
+    
 }
